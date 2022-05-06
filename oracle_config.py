@@ -1,2 +1,2 @@
 
-dbcon = "hr/Admin366@localhost:1521/XEPDB1"
+dbcon = "<user>/<password>@localhost:1521/XEPDB1"
